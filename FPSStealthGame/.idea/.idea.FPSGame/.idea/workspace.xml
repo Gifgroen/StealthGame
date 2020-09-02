@@ -1,25 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cf416e7-aee2-4735-9939-3f5c974de79b" name="Default Changelist" comment="" />
+    <list default="true" id="1cf416e7-aee2-4735-9939-3f5c974de79b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FPSGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FPSGame/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FPSGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FPSGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/FirstPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/FirstPersonExampleMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Source/FPSGame/Private/FPSCharacter.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/FPSGame/Public/FPSCharacter.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/FPSGame/Public/FPSHUD.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FPSGame/Private/FPSBlackHole.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FPSGame/Public/FPSBlackHole.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/FPSGame/Private/FPSHUD.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Source/FPSGame/Private/BlackHoleSceneComponent.cpp" />
+        <option value="$PROJECT_DIR$/Source/FPSGame/Public/BlackHoleSceneComponent.h" />
+        <option value="$PROJECT_DIR$/Source/FPSGame/Private/FPSBlackHole.cpp" />
+        <option value="$PROJECT_DIR$/Source/FPSGame/Public/FPSBlackHole.h" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1gec3rriC0w7kJE13g3qImxd1ut" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34997028" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.3000594" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -30,7 +53,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="C++ Project.FPSGame">
     <configuration name="FPSGame" type="CppProject" factoryName="C++ Project">
       <configuration_1>
         <option name="CONFIGURATION" value="DebugGame Editor" />
@@ -137,6 +160,112 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="UE4" type="CppProject" factoryName="C++ Project">
+      <configuration_1>
+        <option name="CONFIGURATION" value="DebugGame Editor" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_1>
+      <configuration_2>
+        <option name="CONFIGURATION" value="Development" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_2>
+      <configuration_3>
+        <option name="CONFIGURATION" value="DebugGame Editor" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_3>
+      <configuration_4>
+        <option name="CONFIGURATION" value="Shipping" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_4>
+      <configuration_5>
+        <option name="CONFIGURATION" value="Shipping" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_5>
+      <configuration_6>
+        <option name="CONFIGURATION" value="DebugGame" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_6>
+      <configuration_7>
+        <option name="CONFIGURATION" value="DebugGame" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_7>
+      <configuration_8>
+        <option name="CONFIGURATION" value="Development Editor" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_8>
+      <configuration_9>
+        <option name="CONFIGURATION" value="Development Editor" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_9>
+      <configuration_10>
+        <option name="CONFIGURATION" value="Development" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_10>
+      <option name="DEFAULT_PROJECT_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -147,7 +276,11 @@
       <option name="presentableId" value="Default" />
       <updated>1598478307807</updated>
       <workItem from="1598478314887" duration="166000" />
-      <workItem from="1598478643134" duration="1572000" />
+      <workItem from="1598478643134" duration="2616000" />
+      <workItem from="1599055155210" duration="8000" />
+      <workItem from="1599055206751" duration="7000" />
+      <workItem from="1599055283209" duration="1518000" />
+      <workItem from="1599056967397" duration="9669000" />
     </task>
     <servers />
   </component>
@@ -158,5 +291,75 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="3397" height="534" key="GridCell.Tab.0.bottom" timestamp="1599073814346">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="534" key="GridCell.Tab.0.bottom/0.0.3440.1440@0.0.3440.1440" timestamp="1599073814346" />
+    <state width="3397" height="534" key="GridCell.Tab.0.center" timestamp="1599073814346">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="534" key="GridCell.Tab.0.center/0.0.3440.1440@0.0.3440.1440" timestamp="1599073814346" />
+    <state width="3397" height="534" key="GridCell.Tab.0.left" timestamp="1599073814346">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="534" key="GridCell.Tab.0.left/0.0.3440.1440@0.0.3440.1440" timestamp="1599073814346" />
+    <state width="3397" height="534" key="GridCell.Tab.0.right" timestamp="1599073814346">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="534" key="GridCell.Tab.0.right/0.0.3440.1440@0.0.3440.1440" timestamp="1599073814346" />
+    <state width="3397" height="534" key="GridCell.Tab.1.bottom" timestamp="1599073814347">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="534" key="GridCell.Tab.1.bottom/0.0.3440.1440@0.0.3440.1440" timestamp="1599073814347" />
+    <state width="3397" height="534" key="GridCell.Tab.1.center" timestamp="1599073814346">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="534" key="GridCell.Tab.1.center/0.0.3440.1440@0.0.3440.1440" timestamp="1599073814346" />
+    <state width="3397" height="534" key="GridCell.Tab.1.left" timestamp="1599073814346">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="534" key="GridCell.Tab.1.left/0.0.3440.1440@0.0.3440.1440" timestamp="1599073814346" />
+    <state width="3397" height="534" key="GridCell.Tab.1.right" timestamp="1599073814346">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="534" key="GridCell.Tab.1.right/0.0.3440.1440@0.0.3440.1440" timestamp="1599073814346" />
+    <state width="3397" height="534" key="GridCell.Tab.2.bottom" timestamp="1599073814347">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="534" key="GridCell.Tab.2.bottom/0.0.3440.1440@0.0.3440.1440" timestamp="1599073814347" />
+    <state width="3397" height="534" key="GridCell.Tab.2.center" timestamp="1599073814347">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="534" key="GridCell.Tab.2.center/0.0.3440.1440@0.0.3440.1440" timestamp="1599073814347" />
+    <state width="3397" height="534" key="GridCell.Tab.2.left" timestamp="1599073814347">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="534" key="GridCell.Tab.2.left/0.0.3440.1440@0.0.3440.1440" timestamp="1599073814347" />
+    <state width="3397" height="534" key="GridCell.Tab.2.right" timestamp="1599073814347">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="534" key="GridCell.Tab.2.right/0.0.3440.1440@0.0.3440.1440" timestamp="1599073814347" />
+    <state width="3397" height="534" key="GridCell.Tab.3.bottom" timestamp="1599073814347">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="534" key="GridCell.Tab.3.bottom/0.0.3440.1440@0.0.3440.1440" timestamp="1599073814347" />
+    <state width="3397" height="534" key="GridCell.Tab.3.center" timestamp="1599073814347">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="534" key="GridCell.Tab.3.center/0.0.3440.1440@0.0.3440.1440" timestamp="1599073814347" />
+    <state width="3397" height="534" key="GridCell.Tab.3.left" timestamp="1599073814347">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="534" key="GridCell.Tab.3.left/0.0.3440.1440@0.0.3440.1440" timestamp="1599073814347" />
+    <state width="3397" height="534" key="GridCell.Tab.3.right" timestamp="1599073814347">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3397" height="534" key="GridCell.Tab.3.right/0.0.3440.1440@0.0.3440.1440" timestamp="1599073814347" />
+    <state x="1383" y="325" width="672" height="678" key="search.everywhere.popup" timestamp="1599066941904">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1383" y="325" width="672" height="678" key="search.everywhere.popup/0.0.3440.1440@0.0.3440.1440" timestamp="1599066941904" />
   </component>
 </project>
